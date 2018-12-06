@@ -1,6 +1,7 @@
 # Advanced Data Structures
 
-### These are most of the algorithms I learned in the first semester of the Master's degree and were applied in Java like:
+### These are most of the algorithms I learned in the first semester of Master's degree and have been applied by Java language in the following algorithms: 
+
 
 1- AVL Tree
 
