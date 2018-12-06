@@ -1,6 +1,6 @@
 # Advanced Data Structures
 
-## These are most of the algorithms I learned in the first semester of the Master's degree and were applied in Java Ilke:
+### These are most of the algorithms I learned in the first semester of the Master's degree and were applied in Java like:
 
 1- AVL Tree
 2- Binary Heap
